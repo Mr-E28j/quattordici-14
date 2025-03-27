@@ -1,3 +1,4 @@
+// Update imports to use relative paths
 import { ThemeProvider } from "../components/theme-provider"
 import { SonetoGame } from "../components/soneto-game"
 

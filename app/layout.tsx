@@ -1,6 +1,7 @@
 import type React from "react"
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
+// Update imports to use relative paths
 import "./globals.css"
 import { ThemeProvider } from "../components/theme-provider"
 
