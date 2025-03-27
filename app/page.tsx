@@ -1,5 +1,5 @@
-import SonetoGame from "@/components/soneto-game"
-import { ThemeProvider } from "@/components/theme-provider"
+import { ThemeProvider } from "../components/theme-provider"
+import { SonetoGame } from "../components/soneto-game"
 
 export default function Home() {
   return (
